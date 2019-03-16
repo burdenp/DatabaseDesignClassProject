@@ -1,0 +1,31 @@
+2.
+SerialNo   Noun            Verb            Noun
+1        Champions         Own             Items
+2        Champions        Have             Runes
+3        Champions        Have             Champion_abilities
+4        Champions        Have             Champion_stats
+5        Champions        Have             names
+6        Champions        Have             titles
+7        Champions        Have             lore
+8        Champions        Have             tags
+9        Champions        Have             attack
+10       Champions        Have             health
+11       Champions        Have             Spells
+12       Items            Have             Names
+13       Runes            Have             Names
+14       Champion_stats   Have             names
+15       Champion_stats   Have             value
+16       Champion_stats   Have             modifier
+17   Champion abilities   Have             names
+18   Champion abilities   Have             cost
+19   Champion abilities   Have             effects
+20   Champion abilities   Have             range
+
+
+
+
+
+
+3. Champions should be classes, items should be classes, runes should be classes
+   champion abilities should be classes, champion stats should be classes.
+   The rest should be attributes
